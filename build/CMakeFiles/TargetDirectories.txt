@@ -1,0 +1,17 @@
+/home/wangxinxing/桌面/toy-gpu/build/CMakeFiles/intrinsics_gen.dir
+/home/wangxinxing/桌面/toy-gpu/build/CMakeFiles/vt_gen.dir
+/home/wangxinxing/桌面/toy-gpu/build/CMakeFiles/omp_gen.dir
+/home/wangxinxing/桌面/toy-gpu/build/CMakeFiles/acc_gen.dir
+/home/wangxinxing/桌面/toy-gpu/build/CMakeFiles/target_parser_gen.dir
+/home/wangxinxing/桌面/toy-gpu/build/CMakeFiles/mlir-tablegen-targets.dir
+/home/wangxinxing/桌面/toy-gpu/build/CMakeFiles/mlir-headers.dir
+/home/wangxinxing/桌面/toy-gpu/build/CMakeFiles/mlir-generic-headers.dir
+/home/wangxinxing/桌面/toy-gpu/build/CMakeFiles/mlir-doc.dir
+/home/wangxinxing/桌面/toy-gpu/build/CMakeFiles/ToyShapeInferenceGen.dir
+/home/wangxinxing/桌面/toy-gpu/build/CMakeFiles/ToyOpsGen.dir
+/home/wangxinxing/桌面/toy-gpu/build/CMakeFiles/ToyPassesGen.dir
+/home/wangxinxing/桌面/toy-gpu/build/CMakeFiles/ToyCombineGen.dir
+/home/wangxinxing/桌面/toy-gpu/build/CMakeFiles/ToyAllTableGenTargets.dir
+/home/wangxinxing/桌面/toy-gpu/build/CMakeFiles/toyc.dir
+/home/wangxinxing/桌面/toy-gpu/build/CMakeFiles/edit_cache.dir
+/home/wangxinxing/桌面/toy-gpu/build/CMakeFiles/rebuild_cache.dir

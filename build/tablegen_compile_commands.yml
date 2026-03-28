@@ -1,0 +1,48 @@
+--- !FileInfo:
+  filepath: "/home/wangxinxing/桌面/toy-gpu/include/toy/ShapeInferenceInterface.td"
+  includes: "/home/wangxinxing/桌面/toy-gpu;/home/wangxinxing/桌面/llvm-project/llvm/include;/home/wangxinxing/桌面/llvm-project/build/include;/home/wangxinxing/桌面/llvm-project/mlir/include;/home/wangxinxing/桌面/llvm-project/build/tools/mlir/include;/home/wangxinxing/桌面/toy-gpu/include;/home/wangxinxing/桌面/toy-gpu/build/include;/home/wangxinxing/桌面/toy-gpu/build/mlir"
+--- !FileInfo:
+  filepath: "/home/wangxinxing/桌面/toy-gpu/include/toy/ShapeInferenceInterface.td"
+  includes: "/home/wangxinxing/桌面/toy-gpu;/home/wangxinxing/桌面/llvm-project/llvm/include;/home/wangxinxing/桌面/llvm-project/build/include;/home/wangxinxing/桌面/llvm-project/mlir/include;/home/wangxinxing/桌面/llvm-project/build/tools/mlir/include;/home/wangxinxing/桌面/toy-gpu/include;/home/wangxinxing/桌面/toy-gpu/build/include;/home/wangxinxing/桌面/toy-gpu/build/mlir"
+--- !FileInfo:
+  filepath: "/home/wangxinxing/桌面/toy-gpu/include/toy/ShapeInferenceInterface.td"
+  includes: "/home/wangxinxing/桌面/toy-gpu;/home/wangxinxing/桌面/llvm-project/llvm/include;/home/wangxinxing/桌面/llvm-project/build/include;/home/wangxinxing/桌面/llvm-project/mlir/include;/home/wangxinxing/桌面/llvm-project/build/tools/mlir/include;/home/wangxinxing/桌面/toy-gpu/include;/home/wangxinxing/桌面/toy-gpu/build/include;/home/wangxinxing/桌面/toy-gpu/build/mlir"
+--- !FileInfo:
+  filepath: "/home/wangxinxing/桌面/toy-gpu/include/toy/ShapeInferenceInterface.td"
+  includes: "/home/wangxinxing/桌面/toy-gpu;/home/wangxinxing/桌面/llvm-project/llvm/include;/home/wangxinxing/桌面/llvm-project/build/include;/home/wangxinxing/桌面/llvm-project/mlir/include;/home/wangxinxing/桌面/llvm-project/build/tools/mlir/include;/home/wangxinxing/桌面/toy-gpu/include;/home/wangxinxing/桌面/toy-gpu/build/include;/home/wangxinxing/桌面/toy-gpu/build/mlir"
+--- !FileInfo:
+  filepath: "/home/wangxinxing/桌面/toy-gpu/include/toy/Ops.td"
+  includes: "/home/wangxinxing/桌面/toy-gpu;/home/wangxinxing/桌面/llvm-project/llvm/include;/home/wangxinxing/桌面/llvm-project/build/include;/home/wangxinxing/桌面/llvm-project/mlir/include;/home/wangxinxing/桌面/llvm-project/build/tools/mlir/include;/home/wangxinxing/桌面/toy-gpu/include;/home/wangxinxing/桌面/toy-gpu/build/include;/home/wangxinxing/桌面/toy-gpu/build/mlir"
+--- !FileInfo:
+  filepath: "/home/wangxinxing/桌面/toy-gpu/include/toy/Ops.td"
+  includes: "/home/wangxinxing/桌面/toy-gpu;/home/wangxinxing/桌面/llvm-project/llvm/include;/home/wangxinxing/桌面/llvm-project/build/include;/home/wangxinxing/桌面/llvm-project/mlir/include;/home/wangxinxing/桌面/llvm-project/build/tools/mlir/include;/home/wangxinxing/桌面/toy-gpu/include;/home/wangxinxing/桌面/toy-gpu/build/include;/home/wangxinxing/桌面/toy-gpu/build/mlir"
+--- !FileInfo:
+  filepath: "/home/wangxinxing/桌面/toy-gpu/include/toy/Ops.td"
+  includes: "/home/wangxinxing/桌面/toy-gpu;/home/wangxinxing/桌面/llvm-project/llvm/include;/home/wangxinxing/桌面/llvm-project/build/include;/home/wangxinxing/桌面/llvm-project/mlir/include;/home/wangxinxing/桌面/llvm-project/build/tools/mlir/include;/home/wangxinxing/桌面/toy-gpu/include;/home/wangxinxing/桌面/toy-gpu/build/include;/home/wangxinxing/桌面/toy-gpu/build/mlir"
+--- !FileInfo:
+  filepath: "/home/wangxinxing/桌面/toy-gpu/include/toy/Ops.td"
+  includes: "/home/wangxinxing/桌面/toy-gpu;/home/wangxinxing/桌面/llvm-project/llvm/include;/home/wangxinxing/桌面/llvm-project/build/include;/home/wangxinxing/桌面/llvm-project/mlir/include;/home/wangxinxing/桌面/llvm-project/build/tools/mlir/include;/home/wangxinxing/桌面/toy-gpu/include;/home/wangxinxing/桌面/toy-gpu/build/include;/home/wangxinxing/桌面/toy-gpu/build/mlir"
+--- !FileInfo:
+  filepath: "/home/wangxinxing/桌面/toy-gpu/include/toy/Ops.td"
+  includes: "/home/wangxinxing/桌面/toy-gpu;/home/wangxinxing/桌面/llvm-project/llvm/include;/home/wangxinxing/桌面/llvm-project/build/include;/home/wangxinxing/桌面/llvm-project/mlir/include;/home/wangxinxing/桌面/llvm-project/build/tools/mlir/include;/home/wangxinxing/桌面/toy-gpu/include;/home/wangxinxing/桌面/toy-gpu/build/include;/home/wangxinxing/桌面/toy-gpu/build/mlir"
+--- !FileInfo:
+  filepath: "/home/wangxinxing/桌面/toy-gpu/include/toy/Ops.td"
+  includes: "/home/wangxinxing/桌面/toy-gpu;/home/wangxinxing/桌面/llvm-project/llvm/include;/home/wangxinxing/桌面/llvm-project/build/include;/home/wangxinxing/桌面/llvm-project/mlir/include;/home/wangxinxing/桌面/llvm-project/build/tools/mlir/include;/home/wangxinxing/桌面/toy-gpu/include;/home/wangxinxing/桌面/toy-gpu/build/include;/home/wangxinxing/桌面/toy-gpu/build/mlir"
+--- !FileInfo:
+  filepath: "/home/wangxinxing/桌面/toy-gpu/include/toy/Ops.td"
+  includes: "/home/wangxinxing/桌面/toy-gpu;/home/wangxinxing/桌面/llvm-project/llvm/include;/home/wangxinxing/桌面/llvm-project/build/include;/home/wangxinxing/桌面/llvm-project/mlir/include;/home/wangxinxing/桌面/llvm-project/build/tools/mlir/include;/home/wangxinxing/桌面/toy-gpu/include;/home/wangxinxing/桌面/toy-gpu/build/include;/home/wangxinxing/桌面/toy-gpu/build/mlir"
+--- !FileInfo:
+  filepath: "/home/wangxinxing/桌面/toy-gpu/include/toy/Ops.td"
+  includes: "/home/wangxinxing/桌面/toy-gpu;/home/wangxinxing/桌面/llvm-project/llvm/include;/home/wangxinxing/桌面/llvm-project/build/include;/home/wangxinxing/桌面/llvm-project/mlir/include;/home/wangxinxing/桌面/llvm-project/build/tools/mlir/include;/home/wangxinxing/桌面/toy-gpu/include;/home/wangxinxing/桌面/toy-gpu/build/include;/home/wangxinxing/桌面/toy-gpu/build/mlir"
+--- !FileInfo:
+  filepath: "/home/wangxinxing/桌面/toy-gpu/include/toy/Passes.td"
+  includes: "/home/wangxinxing/桌面/toy-gpu;/home/wangxinxing/桌面/llvm-project/llvm/include;/home/wangxinxing/桌面/llvm-project/build/include;/home/wangxinxing/桌面/llvm-project/mlir/include;/home/wangxinxing/桌面/llvm-project/build/tools/mlir/include;/home/wangxinxing/桌面/toy-gpu/include;/home/wangxinxing/桌面/toy-gpu/build/include;/home/wangxinxing/桌面/toy-gpu/build/mlir"
+--- !FileInfo:
+  filepath: "/home/wangxinxing/桌面/toy-gpu/include/toy/Passes.td"
+  includes: "/home/wangxinxing/桌面/toy-gpu;/home/wangxinxing/桌面/llvm-project/llvm/include;/home/wangxinxing/桌面/llvm-project/build/include;/home/wangxinxing/桌面/llvm-project/mlir/include;/home/wangxinxing/桌面/llvm-project/build/tools/mlir/include;/home/wangxinxing/桌面/toy-gpu/include;/home/wangxinxing/桌面/toy-gpu/build/include;/home/wangxinxing/桌面/toy-gpu/build/mlir"
+--- !FileInfo:
+  filepath: "/home/wangxinxing/桌面/toy-gpu/mlir/ToyCombine.td"
+  includes: "/home/wangxinxing/桌面/toy-gpu;/home/wangxinxing/桌面/llvm-project/llvm/include;/home/wangxinxing/桌面/llvm-project/build/include;/home/wangxinxing/桌面/llvm-project/mlir/include;/home/wangxinxing/桌面/llvm-project/build/tools/mlir/include;/home/wangxinxing/桌面/toy-gpu/include;/home/wangxinxing/桌面/toy-gpu/build/include;/home/wangxinxing/桌面/toy-gpu/build/mlir"
+--- !FileInfo:
+  filepath: "/home/wangxinxing/桌面/toy-gpu/mlir/ToyCombine.td"
+  includes: "/home/wangxinxing/桌面/toy-gpu;/home/wangxinxing/桌面/llvm-project/llvm/include;/home/wangxinxing/桌面/llvm-project/build/include;/home/wangxinxing/桌面/llvm-project/mlir/include;/home/wangxinxing/桌面/llvm-project/build/tools/mlir/include;/home/wangxinxing/桌面/toy-gpu/include;/home/wangxinxing/桌面/toy-gpu/build/include;/home/wangxinxing/桌面/toy-gpu/build/mlir"
